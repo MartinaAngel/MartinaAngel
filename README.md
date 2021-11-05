@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MartinaAngel
+- 🌱 I’m currently trying to deepen my knowledge in python, HTML, CSS, JS, jupyter notebook, React and anything else that might be useful!
+- 💞️ I’m looking to collaborate on fun and exciting video games!
